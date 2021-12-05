@@ -1,0 +1,8 @@
+name: "db"
+
+mysql:
+  host: "192.168.3.161"
+  port: 3306
+  user: "root"
+  pass_word: "root"
+  db: "person"
